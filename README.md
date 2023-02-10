@@ -1,0 +1,68 @@
+# deep learning  
+https://github.com/dlsys-course
+https://d2l.ai/index.html   (extremely important)
+http://zh.d2l.ai/  (include PaddlePaddle code)
+https://udlbook.github.io/udlbook/
+https://www.paddlepaddle.org.cn/tutorials/projectdetail/4676538
+https://deeplearningsystems.ai/
+https://docs.python.org/3/tutorial/index.html
+https://github.com/google/jax
+http://bit.baidu.com/courseRouteDetail?id=111
+
+https://github.com/josephmisiti/awesome-machine-learning
+http://introtodeeplearning.com/
+https://github.com/lexfridman/mit-deep-learning
+https://github.com/aamini/introtodeeplearning
+https://udlbook.github.io/udlbook/
+
+
+ 
+## design your CPU , chip and board              
+[SDL: Simple Directmedia Layer](https://github.com/libsdl-org/SDL)   
+https://www.gem5.org/             
+https://wokwi.com/       
+https://github.com/wokwi      
+                    
+
+## OS
+https://github.com/chyyuu/os_course_info  
+https://learningos.github.io/rCore-Tutorial-Guide-2022S/         
+https://github.com/tmux/tmux
+  
+
+
+   
+
+## RISC-V   
+https://github.com/riscvarchive/riscv-software-list     
+      
+https://github.com/riscv-collab/riscv-gnu-toolchain               
+https://github.com/riscvarchive/riscv-cores-list            
+https://github.com/riscvarchive             
+    
+
+    
+## Circuit, Verilog     
+[Digital Circuits Tutorial](https://www.tutorialspoint.com/digital_circuits/index.htm)     
+https://makerchip.com/              
+https://hdlbits.01xz.net/wiki/Main_Page  
+https://github.com/verilator/verilator      
+
+  
+## robot    
+https://github.com/peng-zhihui/Dummy-Robot       
+   
+## IoT, Bluetooth, RT-THREAD   
+https://supperthomas-wiki.readthedocs.io/en/latest/   
+       
+## AI          
+https://modelscope.cn/home    
+        
+## Awesome lists about all kinds of interesting topics    
+https://github.com/sindresorhus/awesome   
+   
+## [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)   
+   
+##  全栈工程师培训材料，帮助学习者掌握 JavaScript 全栈开发的基本知识，承担简单 Web 应用的前后端开发。   
+https://github.com/ruanyf/jstraining       
+https://github.com/onlywei/explain-git-with-d3      
