@@ -1,3 +1,19 @@
+```python
+pages_each_day = 40
+# 2023/2/20 - 3/10
+days_for_csapp = 800 / pages_each_day  # 20 
+days_for_digital_logic = 20
+days_for_computer_organization = 700 / pages_each_day # 17.5
+days_for_os_ucore_linux = 30
+days_for_yishengyixin = 30
+# total_days : 117.5
+total_days = days_for_csapp + days_for_digital_logic + \
+    days_for_computer_organization + days_for_os_ucore_linux + \
+        days_for_yishengyixin
+print(total_days) 
+# conclusion: 2023/2/20 - 6/20:  around 120 days
+```
+
 # deep learning  
 https://github.com/dlsys-course
 https://d2l.ai/index.html   (extremely important)
