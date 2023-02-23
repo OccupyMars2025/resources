@@ -15,6 +15,7 @@ print(total_days)
 ```
 
 # deep learning  
+https://github.com/FMInference/FlexGen  
 https://github.com/dlsys-course
 https://d2l.ai/index.html   (extremely important)
 http://zh.d2l.ai/  (include PaddlePaddle code)
