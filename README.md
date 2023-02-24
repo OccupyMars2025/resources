@@ -34,7 +34,19 @@ https://udlbook.github.io/udlbook/
 
 
  
-## design your CPU , chip and board              
+## design your CPU , GPU, AI chip     
+https://www.syncad.com/
+
+https://github.com/riscvarchive/riscv-software-list     
+      
+https://github.com/riscv-collab/riscv-gnu-toolchain               
+https://github.com/riscvarchive/riscv-cores-list            
+https://github.com/riscvarchive             
+       
+[Digital Circuits Tutorial](https://www.tutorialspoint.com/digital_circuits/index.htm)     
+https://makerchip.com/              
+https://hdlbits.01xz.net/wiki/Main_Page  
+https://github.com/verilator/verilator      
 [SDL: Simple Directmedia Layer](https://github.com/libsdl-org/SDL)   
 https://www.gem5.org/             
 https://wokwi.com/       
@@ -48,22 +60,7 @@ https://github.com/tmux/tmux
   
 
 
-   
 
-## RISC-V   
-https://github.com/riscvarchive/riscv-software-list     
-      
-https://github.com/riscv-collab/riscv-gnu-toolchain               
-https://github.com/riscvarchive/riscv-cores-list            
-https://github.com/riscvarchive             
-    
-
-    
-## Circuit, Verilog     
-[Digital Circuits Tutorial](https://www.tutorialspoint.com/digital_circuits/index.htm)     
-https://makerchip.com/              
-https://hdlbits.01xz.net/wiki/Main_Page  
-https://github.com/verilator/verilator      
 
   
 ## robot    
