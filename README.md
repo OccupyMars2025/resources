@@ -84,4 +84,10 @@ https://github.com/sindresorhus/awesome
    
 ##  全栈工程师培训材料，帮助学习者掌握 JavaScript 全栈开发的基本知识，承担简单 Web 应用的前后端开发。   
 https://github.com/ruanyf/jstraining       
-https://github.com/onlywei/explain-git-with-d3      
+https://github.com/onlywei/explain-git-with-d3         
+  
+https://github.com/starship/starship   
+print(1.01**365)  
+print(0.99**365)    
+37.78343433288728  
+0.025517964452291125  
