@@ -35,6 +35,8 @@ https://udlbook.github.io/udlbook/
 
  
 ## design your CPU , GPU, AI chip     
+https://picture.iczhiku.com/weixin/message1569856096089.html  
+  
 https://www.syncad.com/
 
 https://github.com/riscvarchive/riscv-software-list     
