@@ -87,7 +87,7 @@ https://github.com/ruanyf/jstraining
 https://github.com/onlywei/explain-git-with-d3         
   
 https://github.com/starship/starship   
-print(1.01**365)  
-print(0.99**365)    
-37.78343433288728  
-0.025517964452291125  
+```python
+print(1.01**365)  # 37.78343433288728  
+print(0.99**365)  # 0.025517964452291125  
+```
