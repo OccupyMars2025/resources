@@ -13,7 +13,9 @@ total_days = days_for_csapp + days_for_digital_logic + \
 print(total_days) 
 # conclusion: 2023/2/20 - 6/20:  around 120 days
 ```
-
+# math
+https://www.microsoft.com/en-us/research/project/lean/  
+   
 # deep learning  
 https://github.com/FMInference/FlexGen  
 https://github.com/dlsys-course
